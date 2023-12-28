@@ -1,4 +1,4 @@
-# Examples介紹
+# 规则/配置介紹
 
 ## 說明
 集合了Surge、QuanX、Clash、Shadowrocket基礎配置示例及參考
