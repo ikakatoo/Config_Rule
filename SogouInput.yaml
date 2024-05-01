@@ -18,8 +18,6 @@ payload:
  - DOMAIN-SUFFIX,ime.sogou.com
  - DOMAIN-SUFFIX,macime.sogou.com
  - DOMAIN-SUFFIX,sginput.qq.com
- - USER-AGENT,SogouInput
- - USER-AGENT,com.sogou.sogouinput.BaseKeyboard
  - PROCESS-NAME,SogouInput
  - PROCESS-NAME,SOgouTaskManager
  - PROCESS-NAME,SogouServices
