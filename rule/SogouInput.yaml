@@ -8,7 +8,7 @@
 #
 # This file contains rules for Sogou Input.
 #########################################
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+# DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,oth.str.mdt.qq.com
 DOMAIN,otheve.beacon.qq.com
 DOMAIN-SUFFIX,sginput.qq.com
