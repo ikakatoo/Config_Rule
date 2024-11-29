@@ -8,7 +8,7 @@
 #
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 #########################################
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+# DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,js.iterable.com
 DOMAIN,api.iterable.com
 DOMAIN,api-js.mixpanel.com
